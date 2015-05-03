@@ -1,2 +1,2 @@
 # font-booyah
-A Font Icon Experiemtn
+A Font Icon Experiment
